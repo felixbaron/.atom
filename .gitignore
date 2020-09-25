@@ -4,5 +4,4 @@
 # But not these files...
 !config.cson
 !keymap.cson
-!packages/
 !.gitignore
