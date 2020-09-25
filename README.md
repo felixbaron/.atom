@@ -28,7 +28,10 @@ pip install python-language-server[all]
 pip install 'python-language-server[all]'
 ```
 
-## Install starred packages
+## Install packages
+
+Get packages through [sync-settings](https://atom.io/packages/sync-settings). [This](https://gist.github.com/felixbaron/c951e766652e399c58400be5372c4b5c) is my Atom settings backup: 
+Alternative:
 
 ```Shell
 apm stars --install

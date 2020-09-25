@@ -1,4 +1,0 @@
-'atom-text-editor':
-  'ctrl-i': 'link:open'
-  'ctrl-ß': 'terminus:toggle'
-  'ctrl-q': 'terminus:insert-selected-text'

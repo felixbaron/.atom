@@ -1,8 +1,0 @@
-# Ignore everything
-*
-
-# But not these files...
-!README.md
-!config.cson
-!keymap.cson
-!.gitignore
