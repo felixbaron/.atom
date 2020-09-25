@@ -26,7 +26,9 @@
       "markup.code"
     ]
   terminus:
-    core: {}
+    core:
+      mapTerminalsTo: "File"
+      workingDirectory: "Active File"
     style:
       theme: "atom-dark"
   welcome:
