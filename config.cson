@@ -18,18 +18,17 @@
   "data-explorer": {}
   editor:
     fontSize: 20
+  "exception-reporting":
+    userId: "bfe16d39-0ca5-4b60-af2e-8198eb68d8bc"
   "spell-check":
     excludedScopes: [
       "text.plain.null-grammar"
       "markup.code"
     ]
   terminus:
-    core:
-      mapTerminalsTo: "File"
-      workingDirectory: "Active File"
+    core: {}
     style:
       theme: "atom-dark"
-    core: {}
   welcome:
     showOnStartup: false
   zentabs:
